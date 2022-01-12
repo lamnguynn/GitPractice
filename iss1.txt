@@ -1,3 +1,0 @@
-Fixing some user issues in this branch "iss1".
-
-Adding some new fixes to issue 1
