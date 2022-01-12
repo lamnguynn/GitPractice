@@ -9,4 +9,5 @@ class TestStringMethods(unittest.TestCase):
     def testValues(self):
         self.assertTrue(c == 34)
 
-unittest.main()
+if __name__ == "__main__":
+    unittest.main()
